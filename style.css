@@ -1,0 +1,35 @@
+
+* {
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.inicio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #15aba6;
+    color: white;
+    font-weight: bold;
+  
+}
+
+.ima {
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px 40px 10px;
+}
+
+.contenido {
+    color: #15aba6;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+}
+
+a:hover {
+    blue
+}
