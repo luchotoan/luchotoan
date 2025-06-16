@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @luchotoan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @luchotoan — but you can call me Luis.
 
-<!---
-luchotoan/luchotoan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a first-semester Systems Engineering student with a passion for programming, especially in web and Android development. I'm currently learning:
+
+- C++
+- Java
+- Kotlin
+- Android Studio
+- Object-Oriented Programming (OOP)
+
+I'm eager to collaborate on beginner-friendly projects involving the technologies I'm learning, and I enjoy engaging in positive, constructive discussions around project ideas and implementations.
+
+You can reach me here or via email: luchotoan@gmail.com.
