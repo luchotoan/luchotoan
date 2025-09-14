@@ -1,6 +1,6 @@
 Hi, I’m @luchotoan — but you can call me Luis.
 
-I'm a first-semester Systems Engineering student with a passion for programming, especially in web and Android development. I'm currently learning:
+I'm a second-semester Systems Engineering student with a passion for programming, especially in web and Android development. I'm currently learning:
 
 - C++
 - Java
